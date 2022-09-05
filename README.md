@@ -10,7 +10,9 @@ Fonte do trabalho: [Trabalho 2 da disciplina de Fundamentos de Sistemas Embarcad
 
 ## Intruções de execução
 Para a execução, clonar o repositório em https://github.com/Wictorgirardi/T2-FSE
-
+```
+$ cd Trabalho2
+```
 ```
 $ make
 ```
